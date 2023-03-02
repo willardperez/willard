@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87740945626",
+    "firebase_url": "https://onlinevoting-cfa76-default-rtdb.firebaseio.com",
+    "project_id": "onlinevoting-cfa76",
+    "storage_bucket": "onlinevoting-cfa76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87740945626:android:fdb8ad8457d0c6395141e3",
+        "android_client_info": {
+          "package_name": "com.example.willard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87740945626-sfn71hdphneqg65fsh1c35vm68liunq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD64tVbBgdjTF3ZeCuCTenACTxppYic3sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87740945626-sfn71hdphneqg65fsh1c35vm68liunq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
